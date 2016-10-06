@@ -1,3 +1,3 @@
 # MusikVereinManager
 
-Projekt und potentielle Diplomabeit lkjlkj
+Projekt und potentielle Diplomabeit
